@@ -1,26 +1,21 @@
 <h1>Hi, I'm Sven 👋</h1>
 
-_One-line hook: who you are and what you do._
-
-_Short paragraph: how you work or what drives you._
-
-_Short paragraph: proof — the thing that makes the hook credible._
+I ship AI products in banking, and build my own on the side.
 
 **Lately, I've been working on**
 
-- _Topic_
-- _Topic_
-- _Topic_
-- _Topic_
+- Using Hermes cron jobs to run agents on a schedule. 
+- How to improve PM work with agents
+- more to follow ...
+
 
 
 <h2>A bit about me</h2>
 
-- **_Role_** at **_Company_** _— what you do there._
+- **AI Product Manager & Product Owner** at **UBS** — Conversational Banking
+- Data scientist by training (MSc), product manager by trade
 
-- _Other credential, side project or interest._
 
+If you saw something you like, feel free to reach out.
 
-_Closing line / call to action._
-
-[LinkedIn](https://www.linkedin.com/in/your-handle) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/sven-kerstjens/) · [Email](mailto:sven.kerstjens@me.com)
