@@ -15,8 +15,6 @@ I ship AI products in banking, and build my own on the side.
 - **AI Product Manager & Product Owner** at **UBS** — Conversational Banking
 - Data scientist by training (MSc), product manager by trade
 
-<h2>Live in beta</h2>
-[Valri](https://www.valri.nl/)
 
 If you saw something you like, feel free to reach out.
 
